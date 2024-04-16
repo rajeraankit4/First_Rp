@@ -1,3 +1,3 @@
-# First_Repp\o
+# First_Repo
 Creating my First Repository.... 
 Date: 16/4/24
